@@ -10,6 +10,15 @@
   <a href="t.me/iroml"><img  height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/telegram.svg" /></a>
 </p>
 
+Hi, I am Rahul Goswami , a student of Banaras Hindu University,India.Currently doing my Masters in  **Statistics and Computing** from [Center For Interdiscplinary Mathematical Sciences](https://www.bhu.ac.in/science/cims/). Looking for oppourtinity not job. Interested in core of machine learning and trying to learn applied  
 
-[<p align="center">![Rahul Goswami Github](https://github-readme-stats.vercel.app/api?username=yuvrajiro&hide_border=true&show_icons=true)</p>]()
+- 🔭 I’m currently working on Machine Learning Models , mostly text classification
+- 🌱 I’m currently learning Flask to deploy my models
+- 👯 I’m looking to collaborate on Producing Standalone Application from Flask
+- 🤔 I’m looking for help with understanding Docker
+- 💬 Ask me about Anything 
+- 😄 Pronouns: RG 
+- ⚡ Fun fact: My Masters degree and life both is on stake due to covid-19 and  Guidelines
+
+[<p align="center">![My Github](https://github-readme-stats.vercel.app/api?username=yuvrajiro&hide_border=true&show_icons=true)</p>]()
 
