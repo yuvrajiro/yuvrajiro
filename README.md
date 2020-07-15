@@ -2,7 +2,7 @@
 
 
 
-<p align="center"><img height="225" width="400" src="Profile.png"></p>
+<p align="center"><img height="225" width="400" src="/Profile.png"></p>
 <h3 align=center> Namaste 🙏 , Its Rahul Goswami </h3>
 
 
