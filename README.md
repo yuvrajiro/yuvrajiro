@@ -1,4 +1,4 @@
-<p align="center"><img height="225" width="400" src="/Profile.jpg"></p>
+<p align="center"><img height="225" width="400" src="/profile.jpg"></p>
 <h3 align=center> Namaste 🙏 , Its Rahul Goswami </h3>
 
 
