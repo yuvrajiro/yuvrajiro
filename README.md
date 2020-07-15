@@ -10,6 +10,6 @@
   <a href="t.me/iroml"><img  height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/telegram.svg" /></a>
 </p>
 
-<p align="center">
-[![Rahul Goswami Github](https://github-readme-stats.vercel.app/api?username=yuvrajiro&hide_border=true&show_icons=true)]()
-</p>
+
+[<p align="center">![Rahul Goswami Github](https://github-readme-stats.vercel.app/api?username=yuvrajiro&hide_border=true&show_icons=true)</p>]()
+
