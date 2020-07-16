@@ -24,7 +24,7 @@ Hi, I am Rahul Goswami , a student of Banaras Hindu University,India.Currently d
 
 [<p align="center">![My Github](https://github-readme-stats.vercel.app/api?username=yuvrajiro&hide_border=true&show_icons=true)</p>]()
 
-[<p align=center>![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)</p>]
+[<p align=center>![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)</p>]()
 
 <b><p align =center>Feel Free to fork this repo to create your profile as mine , don't forget to give STAR 🌟</p></b>
 
