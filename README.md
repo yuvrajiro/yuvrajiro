@@ -1,5 +1,7 @@
 <p align="center"><img height="225" width="400" src="https://github.com/yuvrajiro/yuvrajiro/blob/master/profile.jpg?raw=true"></p>
-<h3 align=center> Namaste 🙏 , Its Rahul Goswami </h3>
+<h3 align=center> Namaste 🙏 , Its Rahul Goswami </h3> 
+
+
 
 
 <p align=center>
@@ -16,9 +18,13 @@ Hi, I am Rahul Goswami , a student of Banaras Hindu University,India.Currently d
 - 🌱 I’m currently learning Flask to deploy my models
 - 👯 I’m looking to collaborate on Producing Standalone Application from Flask
 - 🤔 I’m looking for help with understanding Docker
-- 💬 Ask me about Anything 
+- 💬 Ask me about Anything
 - 😄 Pronouns: RG 
 - ⚡ Fun fact: My Masters degree and life both is on stake due to covid-19 and  Guidelines
 
 [<p align="center">![My Github](https://github-readme-stats.vercel.app/api?username=yuvrajiro&hide_border=true&show_icons=true)</p>]()
 
+[<p align=center>![ForTheBadge built-with-swag</p>](http://ForTheBadge.com/images/badges/built-with-swag.svg)]
+
+ leeF** 
+***
