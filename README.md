@@ -1,7 +1,7 @@
 <p align="center"><img  src="https://images.weserv.nl/?url=github.com/yuvrajiro.png?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d"></p>
 <h3 align=center> Namaste 🙏 , Its Rahul Goswami </h3> 
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines= Namaste 🙏 , Its Rahul Goswami;Second+line+of+text)](https://git.io/typing-svg)
 
 
 <p align=center>
