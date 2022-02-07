@@ -1,6 +1,6 @@
 <p align="center"><img  src="https://images.weserv.nl/?url=github.com/yuvrajiro.png?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d"></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=720&lines=+Namaste+%F0%9F%99%8F+%2C+Its+Rahul+Goswami;I+am+Statistician)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=1080&lines=+Namaste+%F0%9F%99%8F+%2C+Its+Rahul+Goswami;I+am+Statistician)](https://git.io/typing-svg)
 
 
 <p align=center>
@@ -13,13 +13,13 @@
 
 Hi, I am Rahul Goswami ,Phd Research Scholar at Indian Institute of Technology, Guwahati. Earlier I was a student of Banaras Hindu University,India doing my Masters in  **Statistics and Computing** from [Center For Interdiscplinary Mathematical Sciences](https://www.bhu.ac.in/science/cims/). Looking for oppourtinity not job. Interested in core of Machine Learning and Bayesian Analysis
 
-- 🔭 I’m currently working on Machine Learning Models , mostly text classification
-- 🌱 I’m currently learning Flask to deploy my models
+- 🔭 I’m currently working on Ensemble Techniques : Combined Regression Strategy
+- 🌱 I’m currently learning Bayesian Inference
 - 👯 I’m looking to collaborate on Producing Standalone Application from Flask
 - 🤔 I’m looking for help with understanding Docker
 - 💬 Ask me about Anything
-- 😄 Pronouns: RG 
-- ⚡ Fun fact: My Masters degree and life both is on stake due to covid-19 and  Guidelines
+- 😄 Pronouns: Giri G 
+- ⚡ Fun fact: Food is Love
 
 [<p align="center">![My Github](https://github-readme-stats.vercel.app/api?username=yuvrajiro&hide_border=true&show_icons=true)</p>]()
 
