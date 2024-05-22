@@ -11,7 +11,7 @@
   <a href="t.me/iroml"><img  height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/telegram.svg" /></a>
 </p>
 
-Hi, I am Rahul Goswami ,Phd Research Scholar at Indian Institute of Technology, Guwahati. Earlier I was a student of Banaras Hindu University,India doing my Masters in  **Statistics and Computing** from [Center For Interdiscplinary Mathematical Sciences](https://www.bhu.ac.in/science/cims/). Looking for oppourtinity not job. Interested in core of Machine Learning and Bayesian Analysis
+Hi, I am Rahul Goswami, Research Scholar at Indian Institute of Technology, Guwahati. Earlier I was a student of Banaras Hindu University,India doing my Masters in  **Statistics and Computing** from [Center For Interdiscplinary Mathematical Sciences](https://www.bhu.ac.in/science/cims/). Looking for oppourtinity not job. Interested in core of Machine Learning and Bayesian Analysis
 
 - 🔭 I’m currently working on Ensemble Techniques : Combined Regression Strategy
 - 🌱 I’m currently learning Bayesian Inference
